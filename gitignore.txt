@@ -1,0 +1,8 @@
+# for Visual C++
+Debug
+Release
+*.user
+*.ncb
+*.suo
+*.sdf
+.vs
